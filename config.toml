@@ -1,9 +1,9 @@
 siteName = "HRocket"
 theme = "HR_Publisher"
 disqusShortname = ""
-BuilPath = "/var/www/static_site.com/public"
-publishDir = ""
-logoLink = "/"
+BuilPath = "/home/khurram/hrocket/docs"
+publishDir = "/previewhrocket"
+logoLink = "/previewhrocket"
 metaKeywords = "HTML, CSS, XML, XHTML, JavaScript"
 googleAnalyticsTrackingId = "UA-232232-34"
 siteUrl = "http://example.com"
@@ -11,13 +11,13 @@ robotsAllow = "False"
 
 [[mainMenu]]
   name = "Home"
-  url = "/"
+  url = "/previewhrocket"
 [[mainMenu]]
   name = "About"
-  url = "/content/pages/about"
+  url = "/previewhrocket/content/pages/about"
 [[mainMenu]]
   name = "Blogs"
-  url = "/content/pages/blogs"
+  url = "/previewhrocket/content/pages/blogs"
 
 
 [params]
